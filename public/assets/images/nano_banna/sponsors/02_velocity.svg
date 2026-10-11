@@ -1,0 +1,9 @@
+<svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 200 60" fill="none" class="logo-wall_logo">
+  <g color="#000000">
+    <g transform="translate(6, 6) scale(0.95)">
+      <path d="M12 28 L28 8 L24 22 L36 22 L20 42 L24 28 Z" fill="currentColor"/>
+    </g>
+    <text x="60" y="32" font-family="'Anton', 'Impact', sans-serif" font-size="20" letter-spacing="1.5" fill="currentColor" text-anchor="start" font-weight="900">VELOCITY</text>
+    <text x="60" y="45" font-family="'Helvetica Neue', 'Arial', sans-serif" font-size="8.5" letter-spacing="2.8" fill="currentColor" opacity="0.65" text-anchor="start" font-weight="700">FUELS</text>
+  </g>
+</svg>

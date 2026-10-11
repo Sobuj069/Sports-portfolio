@@ -1,0 +1,9 @@
+<svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 200 60" fill="none" class="logo-wall_logo">
+  <g color="#000000">
+    <g transform="translate(6, 6) scale(0.95)">
+      <polygon points="24,8 36,16 36,32 24,40 12,32 12,16" fill="none" stroke="currentColor" stroke-width="3"/><polygon points="24,15 31,20 31,28 24,33 17,28 17,20" fill="currentColor"/>
+    </g>
+    <text x="60" y="32" font-family="'Anton', 'Impact', sans-serif" font-size="20" letter-spacing="1.5" fill="currentColor" text-anchor="start" font-weight="900">ALLOY</text>
+    <text x="60" y="45" font-family="'Helvetica Neue', 'Arial', sans-serif" font-size="8.5" letter-spacing="2.8" fill="currentColor" opacity="0.65" text-anchor="start" font-weight="700">FORGE</text>
+  </g>
+</svg>

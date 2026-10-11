@@ -1,0 +1,11 @@
+<svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 120 48" fill="none">
+  <!-- Sleek Motorsport "NB" Monogram -->
+  <g fill="currentColor">
+    <!-- N -->
+    <path d="M12 40 L24 8 H36 L24 40 H12 Z"/>
+    <path d="M28 8 H40 L28 40 H16 Z" opacity="0.3"/>
+    <path d="M30 8 H42 L56 30 L64 8 H76 L62 40 H50 L36 18 Z"/>
+    <!-- B -->
+    <path d="M72 40 L84 8 H104 C112 8, 116 13, 114 19 C112 24, 107 26, 102 26 C108 27, 110 32, 108 36 C106 40, 100 40, 92 40 H72 Z M88 22 H96 C99 22, 101 20, 102 17 C103 14, 101 13, 98 13 H85 L82 22 H88 Z M85 35 H93 C96 35, 98 33, 99 30 C100 27, 98 26, 95 26 H82 L79 35 H85 Z"/>
+  </g>
+</svg>

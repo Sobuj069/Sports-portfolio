@@ -1,0 +1,9 @@
+<svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 200 60" fill="none" class="logo-wall_logo">
+  <g color="#000000">
+    <g transform="translate(6, 6) scale(0.95)">
+      <circle cx="24" cy="24" r="15" stroke="currentColor" stroke-width="3" fill="none"/><path d="M24 12 L24 36 M12 24 L36 24 M15 15 L33 33" stroke="currentColor" stroke-width="2"/>
+    </g>
+    <text x="60" y="32" font-family="'Anton', 'Impact', sans-serif" font-size="20" letter-spacing="1.5" fill="currentColor" text-anchor="start" font-weight="900">HELIX</text>
+    <text x="60" y="45" font-family="'Helvetica Neue', 'Arial', sans-serif" font-size="8.5" letter-spacing="2.8" fill="currentColor" opacity="0.65" text-anchor="start" font-weight="700">GEARBOX</text>
+  </g>
+</svg>
